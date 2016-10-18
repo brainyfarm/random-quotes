@@ -1,4 +1,7 @@
-/* Random Quote Console app */ 
+/**
+ * Random Quote
+ * Get a Random Quote from an API
+ */ 
 const request = require('request');
 const requestPromise = require('request-promise');
 const API_URL = 'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json';
