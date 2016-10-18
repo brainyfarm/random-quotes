@@ -1,4 +1,4 @@
-# Sweet Quotes
+# Random Quotes
 A nodejs console app that request for a random quote from a public API and prints it to the console.
 
 ## Files
